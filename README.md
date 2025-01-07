@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devang</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Devang)](https://git.io/typing-svg)
 <h3 align="center">🚀 MERN Stack Developer | React, Node.js, Express, EJS, MongoDB | Mobile App Dev (Flutter) | UI/UX Enthusiast (Figma) 🎨</h3>
 
 - 🔭 I’m currently working on [Mindbend-Techfest Documentation App](https://github.com/devang-vala/MB-Doc-App)
