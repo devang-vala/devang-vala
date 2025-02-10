@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Devang)](https://git.io/typing-svg)
 <h3 align="center">🚀 MERN Stack Developer | React, Node.js, Express, EJS, MongoDB | Mobile App Dev (Flutter) | UI/UX Enthusiast (Figma) 🎨</h3>
 
-- 🔭 I’m currently working on [Mindbend-Techfest Documentation App](https://github.com/devang-vala/MB-Doc-App)
+- 🔭 I’m currently working on [Helper Buddy](https://github.com/vasusadariya/helperbuddy)
 
 - 💬 Ask me about **MERN stack development, mobile app development with Flutter, UI/UX design in Figma, and competitive programming.**
 
