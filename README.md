@@ -61,8 +61,6 @@
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2038%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -90,13 +88,17 @@ Sunday                   157 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 29 mins       █████████████████████████   99.16 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Roff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,7 +114,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 01:17:28 UTC
+ Last Updated on 31/07/2025 01:17:10 UTC
 <!--END_SECTION:waka-->
 
 ---
