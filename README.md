@@ -61,8 +61,6 @@
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2057%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -117,7 +115,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 01:05:31 UTC
+ Last Updated on 30/08/2025 01:02:28 UTC
 <!--END_SECTION:waka-->
 
 ---
