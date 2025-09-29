@@ -61,6 +61,44 @@
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2048%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                205 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+🌆 Daytime                405 commits         ██████████░░░░░░░░░░░░░░░   38.79 % 
+🌃 Evening                244 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+🌙 Night                  190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Tuesday                  221 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Wednesday                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Friday                   42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Saturday                 324 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Sunday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,7 +112,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 01:11:02 UTC
+ Last Updated on 29/09/2025 01:06:06 UTC
 <!--END_SECTION:waka-->
 
 ---
