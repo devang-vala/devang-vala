@@ -1,88 +1,72 @@
 <div align="center">
-
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Devang" alt="Typing SVG" /></a>
-</div>
+<br/>
 
-<div align="center">
-  <h3>🚀 MERN Stack Developer | React, Node.js, Express, EJS, MongoDB | Mobile App Dev (Flutter) | UI/UX Enthusiast (Figma) 🎨</h3>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I'm currently working on [Qwykli](https://github.com/anooprai5791/Qwykli)
-- 💬 Ask me about **MERN stack development, mobile app development with Flutter, UI/UX design in Figma, and competitive programming**
-- 📫 How to reach me: **devangvala07@gmail.com**
-- ⚡ Fun fact: I'm constantly exploring new technologies and techniques to enhance user experiences
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <h4>Frontend</h4>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  
-  <h4>Backend</h4>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
-  <h4>Mobile Development</h4>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  
-  <h4>Other Skills</h4>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-</div>
-
----
-
-### 🤝 Connect with me
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Devang" alt="Typing SVG" /></a> </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/devang-vala" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/devang_vala07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://codeforces.com/profile/devang_vala" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.leetcode.com/devang_vala07" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/devangvala07" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <a href="https://devang-vala.vercel.app" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" 
+      alt="Portfolio"
+    />
   </a>
 </p>
 
----
+<div align="center">
+  <h3>
+    🚀 Full-Stack Developer | MERN, Next.js, GenAI<br/>
+    🎨 UI/UX Enthusiast (Figma) | 📱 Flutter Developer
+  </h3>
+</div>
+
+<hr/>
+
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+  <li>🔭 Currently working on <b><a href="https://github.com/devang-vala/thrill-bazaar-backend">Thrill Bazaar</a></b> — a scalable, backend-first commerce platform</li>
+  <li>🧠 Actively exploring <b>GenAI systems, LLM orchestration, RAG pipelines, and ML algorithms</b></li>
+  <li>💬 Ask me about <b>MERN, Next.js, Prisma ORM, TanStack ecosystem, GenAI stacks, Flutter, and UI/UX</b></li>
+  <li>📫 Reach me at <b>devangvala07@gmail.com</b></li>
+  <li>⚡ Fun fact: I design systems with <b>UX first, scalability second, performance always</b></li>
+</ul>
+
+<hr/>
+
+<h2>🧠 What I Focus On</h2>
+
+<pre>
+Clean Architecture   •   Developer Experience
+Scalable Backends   •   UX-Driven Interfaces
+AI-Augmented Apps   •   Performance & Maintainability
+</pre>
+
+<hr/>
+<h2>🛠️ Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,express,vite,fastapi,prisma,redis,mongodb,mysql,flutter,dart,androidstudio,python,anaconda,cpp,c,linux,git,firebase,aws,gcp,nestjs,figma,tensorflow,pytorch&perline=9" 
+    />
+  </a>
+</p>
+
+<hr/>
+
+<h2>🤝 Connect With Me</h2>
+
+<p align="center"> <a href="https://linkedin.com/in/devang-vala" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/devang_vala07" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://codeforces.com/profile/devang_vala" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/> </a> <a href="https://www.leetcode.com/devang_vala07" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://auth.geeksforgeeks.org/user/devangvala07" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/> </a> </p>
+
+<hr/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devang-vala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=devang-vala&label=Profile%20Views&color=0e75b6"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devang-vala&theme=dracula&column=7" alt="trophy" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </div>
